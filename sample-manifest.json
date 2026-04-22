@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9a13fe29-4180-4fed-a069-069f0b5ac50c",
+  "export_job_id": "d394d690-fd3b-4baa-b6dd-0b10aacae3dc",
   "id_short": 111239,
-  "published_at": "2026-04-18T07:21:37Z",
+  "published_at": "2026-04-22T07:04:33Z",
   "repo_name": "white-space-finder-in-milwaukee-waukesha-metro-wisconsin-us-sample-111239",
   "sample_asset_name": "beamstation_111239_food_and_drink-us-milwaukeewaukeshawi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/111239/beamstation_111239_food_and_drink-us-milwaukeewaukeshawi_SAMPLE_DIST.csv",
-  "sample_records": 2,
-  "sample_sha256": "6c15da3df5ab04dc77c8270e3a48a6c70aa32d03e27d3a2f9ef0ef67bbe05a2a",
-  "sample_size_bytes": 23041,
-  "total_records": 21
+  "sample_records": 1,
+  "sample_sha256": "fa4a93f6aae3e0aa25e0fdeb947dc0220a36106ac4033ad7329d4897b57a4caa",
+  "sample_size_bytes": 19972,
+  "total_records": 12
 }
