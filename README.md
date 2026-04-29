@@ -1,6 +1,6 @@
 # White Space Finder in Milwaukee-Waukesha (Metro), Wisconsin, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 2 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `111239` |
 | Location | Milwaukee-Waukesha, WI |
 | Category | Restaurants |
-| Full dataset size | 12 records |
-| Free sample size | 1 records (8.33%) |
-| Last export | 2026-04-22T00:11:42.372093+00:00 |
+| Full dataset size | 20 records |
+| Free sample size | 2 records (10.0%) |
+| Last export | 2026-04-29T03:32:10.269390+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-milwaukee-waukesha-metro-wisconsin-us-sample-111239/releases/download/sample-latest/beamstation_111239_food_and_drink-us-milwaukeewaukeshawi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
